@@ -9,7 +9,7 @@ LeetCode
 
 | Days |Number| Topic  | Title | Solution | Difficulty | 
 |--- |----- | --- | ----- | -------- | ---------- | 
-|1|136|Bit Manipulation|[single-number](https://leetcode.com/problems/single-number/description/) | [C++](), [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/1_136.Single%20Number)|Easy|
+|1|136|Bit Manipulation|[single-number](https://leetcode.com/problems/single-number/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/1_136.Single%20Number)|Easy|
 |2|169|Array,Hash|[majority-element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/2_169.Majority%20Element)|Easy|
 |3|125|Two Pointer|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/3_125.Valid%20Palindrome)|Easy|
 |4|367|Math Based,Binary Search|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/4_367.Valid%20Perfect%20Square)|Easy|
@@ -54,3 +54,4 @@ LeetCode
 |43|32|String,DP,Stack|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/43_32.Longest%20Valid%20Parentheses)|Hard|
 |44|115| String,DP|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/44_115.Distinct%20Subsequences)|Hard|
 |45|112|Binary Tree|[path-sum](https://leetcode.com/problems/path-sum/description/) | [Java]()|Easy|
+
