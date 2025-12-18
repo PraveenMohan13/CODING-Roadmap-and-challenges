@@ -38,7 +38,7 @@ LeetCode
 |27|189|Array,Math,Two Pointers|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/27_189.Rotate%20Array)|Medium|
 |28|152|Array,Dp|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/28_152.Maximum%20Product%20Subarray)|Medium|
 |29|1143|String,Dp|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/29_1143.Longest%20Common%20Subsequence)|Medium|
-|30|42||[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/30_42.Trapping%20Rain%20Water)|Hard|
+|30|42|Two Pointers,Dynamic Programming,Stack,Monotonic Stack|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/30_42.Trapping%20Rain%20Water)|Hard|
 |31|154|Array,Binary Search|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/31_154.Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)|Hard|
 |32|564|Math,Strings|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/32_564.Find%20the%20Closest%20Palindrome)|Hard|
 |33|41|Array,Hash Table|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/33_41.First%20Missing%20Positive)|Hard|
@@ -54,6 +54,7 @@ LeetCode
 |43|32|String,DP,Stack|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/43_32.Longest%20Valid%20Parentheses)|Hard|
 |44|115| String,DP|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [Java](https://github.com/PraveenMohan13/CODING-Roadmap-and-challenges/tree/main/45%20days/44_115.Distinct%20Subsequences)|Hard|
 |45|112|Binary Tree|[path-sum](https://leetcode.com/problems/path-sum/description/) | [Java]()|Easy|
+
 
 
 
