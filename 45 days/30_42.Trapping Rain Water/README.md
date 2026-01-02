@@ -260,12 +260,9 @@ class Solution {
 ### Solution 2: Two Pointer
 
 Intuition
-
 Water at any position depends on the maximum bar to the left and the maximum bar to the right.
 Instead of precomputing with extra arrays, we can use two pointers with running max values.
-
 Approach
-
 Maintain two pointers left and right.
 Track leftMax and rightMax.
 If height[left] < height[right], then water trapped at left depends only on leftMax.
@@ -304,6 +301,156 @@ class Solution {
     }
 }
 ```
+<!-- tabs:end -->
+
+### Solution 3: Two Pointer
+
+Problem in Simple Words
+You are given an array height.
+
+Each element represents the height of a vertical bar
+Bars are next to each other
+After raining, water can get trapped between bars
+Your task is to calculate how much total water can be trapped.
+
+First Thing to Understand (Very Important)
+Water does not depend on just one bar.
+
+At any index i, the water trapped depends on:
+
+The tallest bar to the left
+The tallest bar to the right
+Water level at index i is:
+
+min(maxLeft, maxRight) - height[i]
+If this value is negative, water is 0.
+
+Why This Formula Makes Sense
+Imagine standing at position i.
+
+Water can only stay if there is a wall on both sides
+The shorter wall decides how much water can stay
+Anything taller than that wall will overflow
+That’s why we take:
+
+min(leftMax, rightMax)
+Naive Way (Why We Don’t Do It)
+For every index:
+
+Scan left to find max
+Scan right to find max
+That takes O(n²) time.
+
+We need something better.
+
+Optimized Idea: Two Pointers
+Instead of calculating left and right max for every index separately, we:
+
+Start from both ends
+
+Move inward
+
+Keep track of:
+
+maximum height seen so far from the left
+maximum height seen so far from the right
+This allows us to compute trapped water in one pass.
+
+Variables Explained
+int left = 0;
+int right = n - 1;
+
+int left_max = 0;
+int right_max = 0;
+
+int ans = 0;
+What each one means:
+
+left → pointer moving from start
+right → pointer moving from end
+left_max → tallest bar seen from the left so far
+right_max → tallest bar seen from the right so far
+ans → total trapped water
+Core Logic (The Most Important Part)
+We keep looping while left <= right.
+
+At every step, we decide which side to process.
+
+if (left_max <= right_max)
+Why this condition?
+If left_max is smaller or equal:
+
+The water level on the left is decided only by left_max
+The right side is guaranteed to be tall enough
+So it is safe to calculate water at left.
+
+Processing the Left Side
+left_max = Math.max(left_max, height[left]);
+ans += left_max - height[left];
+left++;
+What’s happening:
+
+Update the tallest bar seen so far on the left
+Calculate water at current index
+Move left pointer forward
+Processing the Right Side
+If right_max is smaller:
+
+right_max = Math.max(right_max, height[right]);
+ans += right_max - height[right];
+right--;
+Same idea, just mirrored:
+
+Update tallest bar on the right
+Calculate water at current index
+Move right pointer backward
+
+<!-- tabs:start -->
+```Java
+class Solution {
+    public int trap(int[] height) {
+        int n = height.length;
+
+        int left = 0;
+        int right = n - 1;
+
+        int left_max = 0;
+        int right_max = 0;
+
+        int ans = 0;
+
+        while (left <= right) {
+            if (left_max <= right_max) {
+                left_max = Math.max(left_max, height[left]);
+                ans += left_max - height[left];
+                left++;
+            } else {
+                right_max = Math.max(right_max, height[right]);
+                ans += right_max - height[right];
+                right--;
+            }
+        }
+
+        return ans;
+    }
+}
+```
+Why This Always Works
+Water is always limited by the shorter boundary
+We only process a side when we know its boundary is fixed
+Each index is processed exactly once
+No guessing, no revisiting
+Time and Space Complexity
+Time: O(n)
+Space: O(1)
+Final Takeaway
+This problem is not about counting water directly.
+
+It’s about understanding one rule:
+
+Water height is decided by the shorter side.
+
+Once you accept that and process from both ends intelligently, the solution becomes clean and efficient.
 <!-- tabs:end -->
 
 <!-- solution:end -->
