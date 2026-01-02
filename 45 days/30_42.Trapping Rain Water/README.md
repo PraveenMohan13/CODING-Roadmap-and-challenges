@@ -435,8 +435,6 @@ class Solution {
     }
 }
 ```
-<!-- tabs:start -->
-```Java
 Why This Always Works
 Water is always limited by the shorter boundary
 We only process a side when we know its boundary is fixed
@@ -453,7 +451,7 @@ It’s about understanding one rule:
 Water height is decided by the shorter side.
 
 Once you accept that and process from both ends intelligently, the solution becomes clean and efficient.
-<!-- tabs:end -->
+
 
 <!-- solution:end -->
 ### Solution 3: Monotonic Stack - Last In first out
@@ -473,10 +471,11 @@ class Solution {
                 // If the stack becomes empty, no more water can be trapped
                 if (stack.isEmpty())
                     break;
-                int left = stack.peek();                                                      // Get the index of the next height from the top of the stack
-                int minHeight = Math.min(height.get(right) - height.get(mid), height.get(left) - height.get(mid)); // Calculate the minimum height of the two borders
-                int width = right - left - 1;                                                 // Calculate the width between the left and right borders
-                water += minHeight * width;                                                   // Calculate the trapped water volume and add it to the total
+                int left = stack.peek();                     // Get the index of the next height from the top of the stack
+                int minHeight = Math.min(height.get(right) - height.get(mid), height.get(left) - height.get(mid));
+											// Calculate the minimum height of the two borders
+                int width = right - left - 1;         // Calculate the width between the left and right borders
+                water += minHeight * width;         // Calculate the trapped water volume and add it to the total
             }
             stack.push(right); // Push the current index onto the stack
         }
