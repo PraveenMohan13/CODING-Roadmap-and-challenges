@@ -260,9 +260,12 @@ class Solution {
 ### Solution 2: Two Pointer
 
 Intuition
+
 Water at any position depends on the maximum bar to the left and the maximum bar to the right.
 Instead of precomputing with extra arrays, we can use two pointers with running max values.
+
 Approach
+
 Maintain two pointers left and right.
 Track leftMax and rightMax.
 If height[left] < height[right], then water trapped at left depends only on leftMax.
