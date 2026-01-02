@@ -257,6 +257,51 @@ class Solution {
 ```
 
 <!-- tabs:end -->
+### Solution 2: Two Pointer
+
+Intuition
+Water at any position depends on the maximum bar to the left and the maximum bar to the right.
+Instead of precomputing with extra arrays, we can use two pointers with running max values.
+Approach
+Maintain two pointers left and right.
+Track leftMax and rightMax.
+If height[left] < height[right], then water trapped at left depends only on leftMax.
+If height[left] >= leftMax, update leftMax.
+Else, add leftMax - height[left].
+Move left++.
+
+Else do the same for right using rightMax.
+
+<!-- tabs:start -->
+```Java
+class Solution {
+    public int trap(int[] a) {
+        int n = a.length;
+        int left = 0, right = n-1;
+        int leftMax = 0, rightMax = 0;
+        int res = 0;
+        while (left <= right) {
+            if (a[left] <= a[right]) {
+                if (a[left] >= leftMax) {
+                    leftMax = a[left];
+                } else {
+                    res += leftMax - a[left];
+                }
+                left++;
+            } else {
+                if (a[right] >= rightMax) {
+                    rightMax = a[right];
+                } else {
+                    res += rightMax - a[right];
+                }
+                right--;
+            }
+        }
+        return res;
+    }
+}
+```
+<!-- tabs:end -->
 
 <!-- solution:end -->
 
