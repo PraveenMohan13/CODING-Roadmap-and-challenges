@@ -482,6 +482,7 @@ class Solution {
         return water; // Return the total trapped water volume
     }
 }
+```
 <!-- tabs:end -->
 <!-- solution:end -->
 <!-- problem:end -->
