@@ -453,7 +453,7 @@ Water height is decided by the shorter side.
 Once you accept that and process from both ends intelligently, the solution becomes clean and efficient.
 
 
-<!-- solution:end -->
+
 ### Solution 3: Monotonic Stack - Last In first out
 <!-- tabs:start -->
 ```Java
