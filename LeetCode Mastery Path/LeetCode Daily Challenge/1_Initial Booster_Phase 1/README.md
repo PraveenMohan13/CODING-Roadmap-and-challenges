@@ -12,11 +12,11 @@ LeetCode
 |4|2769|Math|[find-the-maximum-achievable-number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java]()|Easy|
 |5|2651|Math|[calculate-delayed-arrival-time](https://leetcode.com/problems/calculate-delayed-arrival-time) | [Java]()|Easy|
 |6|509|Math,Rec,Dp|[fibonacci-number](https://leetcode.com/problems/fibonacci-number) | [Java]()|Easy|
-|7|1342|Math|number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java]()|Easy|
+|7|1342|Math|[number-of-steps-to-reduce-a-number-to-zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | [Java]()|Easy|
 |8|258|Math|[add-digits](https://leetcode.com/problems/add-digits) | [Java]()|Easy|
 |9|35|Math|[A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal) | [Java]()|Easy|
 |10|1523|Math|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [Java]()|Easy|
-|11|1281|Math[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [C++](), [Java]()|Easy|
+|11|1281|Math[subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) |  [Java]()|Easy|
 |12|2520|Math|[Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | [Java]()|Easy|
 |13|258|Math,Number Theory|[Add Digits](https://leetcode.com/problems/add-digits/) | [Java]()|Easy|
 |14|507|Math|[Perfect Number](https://leetcode.com/problems/perfect-number) | [Java]()|Easy|
