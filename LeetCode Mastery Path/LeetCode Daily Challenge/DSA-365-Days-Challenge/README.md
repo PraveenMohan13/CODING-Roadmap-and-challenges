@@ -150,14 +150,14 @@ LeetCode
 |140|1054|Greedy|[distant-barcodes](https://leetcode.com/problems/distant-barcodes/) | []()|Medium|
 |141|837|DP|[new-21-game](https://leetcode.com/problems/new-21-game/) | []()|Medium| 
 |142|1461|String|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | []()|Medium| 
-|143||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
+|143|695|DFS,BFS|[max-area-of-island](https://leetcode.com/problems/max-area-of-island/) | []()|Medium| 
+|144|791|String|[custom-sort-string](https://leetcode.com/problems/custom-sort-string/) | []()|Medium| 
+|145|337|DP,DFS,Tree|[house-robber-iii](https://leetcode.com/problems/house-robber-iii/) | []()|Medium| 
+|146|2274|Array|[maximum-consecutive-floors-without-special-floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | []()|Medium| 
+|147|2151|Backtracking|[maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | []()|Hard| 
+|148|912|Divide and Conquer|[sort-an-array](https://leetcode.com/problems/sort-an-array/) | []()|Medium| 
+|149|904|Array|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets/) | []()|Medium| 
+|150|1254|BFS,DFS|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands/) | []()|Medium| 
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
