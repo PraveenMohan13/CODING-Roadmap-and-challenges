@@ -98,7 +98,73 @@ LeetCode
 |88|502| Arrays|[ipo](https://leetcode.com/problems/ipo/description/) | [Java]()|Hard| 
 |89|42| Two pointer|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java]()|Hard|
 |90|407| Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
-
+|91|407| Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
+|92|216|Backtracking|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii) | []()|Medium| 
+|93|299|Hash Table,String|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows) | []()|Medium| 
+|94|396|Math,Dynamic Programming|[rotate-function](https://leetcode.com/problems/rotate-function) | []()|Medium| 
+|95|368|Math,Dynamic Programming,Sorting|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset) | []()|Medium| 
+|96|391|Array,Hash Table,Math|[perfect-rectangle](https://leetcode.com/problems/perfect-rectangle) | []()|Hard| 
+|97|207|DFS,BFS,Graph Theory,Topological Sort|[course-schedule](https://leetcode.com/problems/course-schedule/) | []()|Medium| 
+|98|2467|Tree,DFS,BFS,Graph Theory|[most-profitable-path-in-a-tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | []()|Medium| 
+|99|2426|Binary Search,Divide and Conquer,Segment Tree,Merge Sort|[number-of-pairs-satisfying-inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | []()|Hard| 
+|100|581|Two Pointers,Stack,Greedy|[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | []()|Medium|
+|101|1976|DP|[number-of-ways-to-arrive-at-destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | []()|Medium| 
+|102|1392|String|[longest-happy-prefix](https://leetcode.com/problems/longest-happy-prefix/) | []()|Hard|
+|103|1227|DP|[airplane-seat-assignment-probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | []()|Medium| 
+|104|1358|String|[number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | []()|Medium| 
+|105|149|Hash|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/) | []()|Hard|
+|106|593|Math,Geometry|[valid-square](https://leetcode.com/problems/valid-square) | []()|Medium|
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
+|||  |[]() | []()|| 
 
 
 
