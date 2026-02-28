@@ -114,43 +114,43 @@ LeetCode
 |104|1358|String|[number-of-substrings-containing-all-three-characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | []()|Medium| 
 |105|149|Hash|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line/) | []()|Hard|
 |106|593|Math,Geometry|[valid-square](https://leetcode.com/problems/valid-square) | []()|Medium|
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
-|||  |[]() | []()|| 
+|107|447|Array,Hash Table,Math|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | []()|Medium| 
+|108|659|Array,Hash Table,Greedy|[split-array-into-consecutive-subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | []()|Medium| 
+|109|2260|Array,Hash Table,Sliding Window|[minimum-consecutive-cards-to-pick-up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | []()|Medium| 
+|110|2179|Array,Binary Search|[count-good-triplets-in-an-array](https://leetcode.com/problems/count-good-triplets-in-an-array/) | []()|Hard| 
+|111|2212|Array,Backtracking,Bit Manipulation|[maximum-points-in-an-archery-competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | []()|Medium| 
+|112|2327|DP|[number-of-people-aware-of-a-secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | []()|Medium| 
+|113|1169|Array,Hash Table,String|[invalid-transactions](https://leetcode.com/problems/invalid-transactions/) | []()|Medium| 
+|114|1305|Tree,BFS,DFS|[all-elements-in-two-binary-search-trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | []()|Medium|
+|115|1878|Array,Math|[get-biggest-three-rhombus-sums-in-a-grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | []()|Medium| 
+|116|1814|Array|[count-nice-pairs-in-an-array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | []()|Medium| 
+|117|2151|Array,Backtracking,Bit Manipulation|[maximum-good-people-based-on-statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) | []()|Hard| 
+|118|166|Math,String|[fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | []()|Medium| 
+|119|334|Greedy|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | []()|Medium|
+|120|440|Trie|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) | []()|Hard| 
+|121|481|Two Pointers,String|[magical-string](https://leetcode.com/problems/magical-string/) | []()|Medium| 
+|122|600|DP|[non-negative-integers-without-consecutive-ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones) | []()|Hard| 
+|123|688|DP|[knight-probability-in-chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | []()|Medium|
+|124|792|DP|[number-of-matching-subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | []()|Medium|
+|125|433|BFS|[minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | []()|Medium| 
+|126|2265|DFS|[count-nodes-equal-to-average-of-subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | []()|Medium| 
+|127|1975|Greedy|[maximum-matrix-sum](https://leetcode.com/problems/maximum-matrix-sum/) | []()|Medium| 
+|128|2034|HashTable,Heap|[stock-price-fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | []()|Medium| 
+|129|581|Stack,Greedy|[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | []()|Medium| 
+|130|174|DP|[dungeon-game](https://leetcode.com/problems/dungeon-game/) | []()|Hard| 
+|131|2343|Array,String|[query-kth-smallest-trimmed-number](https://leetcode.com/problems/query-kth-smallest-trimmed-number/) | []()|Medium| 
+|132|698|DP,Backtracking|[partition-to-k-equal-sum-subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | []()|Medium| 
+|133|638|DP,Backtracking|[shopping-offers](http://leetcode.com/problems/shopping-offers/) | []()|Medium| 
+|134|1171|Linked List|[remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | []()|Medium| 
+|135|1823|Array,Math,|[find-the-winner-of-the-circular-game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | []()|Medium| 
+|136|1977|DP|[number-of-ways-to-separate-numbers](https://leetcode.com/problems/number-of-ways-to-separate-numbers/) | []()|Hard| 
+|137|1334|Dp|[find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | []()|Medium| 
+|138|2523|Math|[closest-prime-numbers-in-range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | []()|Medium| 
+|139|692|Array|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words/) | []()|Medium| 
+|140|1054|Greedy|[distant-barcodes](https://leetcode.com/problems/distant-barcodes/) | []()|Medium|
+|141|837|DP|[new-21-game](https://leetcode.com/problems/new-21-game/) | []()|Medium| 
+|142|1461|String|[check-if-a-string-contains-all-binary-codes-of-size-k](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | []()|Medium| 
+|143||  |[]() | []()|| 
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
