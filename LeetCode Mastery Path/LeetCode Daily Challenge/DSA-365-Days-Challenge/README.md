@@ -158,6 +158,42 @@ LeetCode
 |148|912|Divide and Conquer|[sort-an-array](https://leetcode.com/problems/sort-an-array/) | []()|Medium| 
 |149|904|Array|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets/) | []()|Medium| 
 |150|1254|BFS,DFS|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands/) | []()|Medium| 
+|151|1316|String,trie,Hash|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings/) | []()|Hard| 
+|152|2261|Array,Trie,Hashing|[K Divisible Elements Subarrays]
+(https://leetcode.com/problems/k-divisible-elements-subarrays/) | []()|Medium| 
+|153|528| Array,Math,Binary Search |[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | []()|Medium| 
+|154|1561|Array,Math,Greedy,Sorting|[Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | []()|Medium| 
+|155|743|DFS,heap,BFS|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | []()|Medium| 
+|156|1314|Array,Matrix|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | []()|Medium| 
+|157|93| String,Backtracking|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | []()|Medium| 
+|158|778|  Array,BFS,DFS,Heap,Binary Search|[Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) | []()|Hard| 
+|159|2396| Math,Two Pointer|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | []()|Medium| 
+|160|1947|Array,DP,BackTracking,Bit Manipulation|[Max Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | []()|Medium| 
+|161|384|Array,Math|[Shuffle an array](https://leetcode.com/problems/shuffle-an-array/) | []()|Medium| 
+|162|787|DP,DFS,BFS,Heap|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | []()|Medium| 
+|163|1593|Hash,String,BackTracking|[ Split String into maximum number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | []()|Medium| 
+|164|1348|Hash,String,Sorting,Binary Search|[Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | []()|Medium|
+|165|2428|Array,Matrix|[Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | []()|Medium| 
+|166|1856|Array,Stack|[ Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) | []()|Medium| 
+|167|649| String,Queue,Greedy |[ Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | []()|Medium| 
+|168|2126|Array,Greedy,Sorting |[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | []()|Medium| 
+|169|2456|Array,Hash,String,Sorting,Heap |[Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | []()|Medium| 
+|170|792|Array,Hash,String.DP,Trie,Sorting|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | []()|Medium| 
+|171|2400|Math,DP|[Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | []()|Medium| 
+|172|718|Array,DP,sliding window,Hash|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | []()|Medium| 
+|173|692|Array,Hash,String,Trie,Sorting,Heap|[ Top K frequent words](https://leetcode.com/problems/top-k-frequent-words/) | []()|Medium| 
+|174|1503|Array|[Last Moment before all ants Fall out](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | []()|Medium| 
+|175|478|Math|[Generate Random point in a circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | []()|Medium| 
+|176|2397|Array,BackTracking,Bit Manipulation,Matrix|[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/description/) | []()|Medium| 
+|177|257|String,Tree,DFS,Bfs,Back Tracking|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | []()|Easy| 
+|178|2048|Hash,Back Tracking,Math|[next-greater-numerically-balanced-number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | []()|Medium| 
+|179|560|Array,Hash|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/) | []()|Medium| 
+|180||String,DP |[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv) | []()|Hard| 
+|181|838|Two Pointer,Sring,DP|[push-dominoes](https://leetcode.com/problems/push-dominoes) | []()|Medium| 
+|182|115|String,DP|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | []()|Hard| 
+|183|1696|Array,DP,Queue,Hash|[jump-game-vi]( https://leetcode.com/problems/jump-game-vi/) | []()|Medium| 
+|184|846|Array,Hash,Greddy,Sorting|[hand-of-straights](https://leetcode.com/problems/hand-of-straights/) | []()|Medium| 
+|185|1899|Array,Greedy|[merge-triplets-to-form-target-triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | []()|Medium|
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
 |||  |[]() | []()|| 
