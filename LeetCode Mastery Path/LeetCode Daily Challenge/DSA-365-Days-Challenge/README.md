@@ -57,48 +57,48 @@ LeetCode
 |47|102|Binary Tree|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Java]()|Medium|
 |48|33| Arrays|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java]()|Medium|
 |49|199|Binary Tree|[binary-tree-right-side-view](https://leetcode.com/problems/binary-tree-right-side-view/) | [Java]()|Medium|
-|50|153| Arrays|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java]()|Medium|
+|50|153|Arrays|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java]()|Medium|
 |51|111|Binary Tree|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [Java]()|Easy|
-|52|345| Arrays|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java]()|Easy|
+|52|345|Arrays|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [Java]()|Easy|
 |53|114|Binary Tree|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Java]()|Medium|
-|54|2108| Arrays|[find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | [Java]()|Easy|
+|54|2108|Arrays|[find-first-palindromic-string-in-the-array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/) | [Java]()|Easy|
 |55|236|Binary Tree|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java]()|Medium|
-|56|125| Arrays|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java]()|Easy|
-|57|129| Binary Tree|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Java]()|Medium|
-|58|1047| Strings|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Java]()|Easy|
-|59|404| Binary Tree|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Java]()|Easy|
-|60|151| Strings|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java]()|Medium|
-|61|543| Binary Tree|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java]()|Easy|
-|62|1979| Arrays|[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Java]()|Easy|
-|63|103| Binary Tree|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java]()|Medium|
-|64|2470| Arrays|[number-of-subarrays-with-lcm-equal-to-k](https://leetcode.com/problems/https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/) | [Java]()|Medium|
-|65|701| Binary Search Tree|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Java]()|Medium|
-|66|169| Arrays|[majority-element](https://leetcode.com/problems/majority-element/description/) | [Java]()|Easy|
-|67|700| Binary Search Tree|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Java]()|Easy|
-|68|633| Number Theory|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Java]()|Medium|
+|56|125|Arrays|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Java]()|Easy|
+|57|129|Binary Tree|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [Java]()|Medium|
+|58|1047|Strings|[remove-all-adjacent-duplicates-in-string](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) | [Java]()|Easy|
+|59|404|Binary Tree|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves/description/) | [Java]()|Easy|
+|60|151|Strings|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Java]()|Medium|
+|61|543|Binary Tree|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java]()|Easy|
+|62|1979|Arrays|[find-greatest-common-divisor-of-array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/) | [Java]()|Easy|
+|63|103|Binary Tree|[binary-tree-zigzag-level-order-traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) | [Java]()|Medium|
+|64|2470|Arrays|[number-of-subarrays-with-lcm-equal-to-k](https://leetcode.com/problems/https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/description/) | [Java]()|Medium|
+|65|701|Binary Search Tree|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) | [Java]()|Medium|
+|66|169|Arrays|[majority-element](https://leetcode.com/problems/majority-element/description/) | [Java]()|Easy|
+|67|700|Binary Search Tree|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) | [Java]()|Easy|
+|68|633|Number Theory|[sum-of-square-numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) | [Java]()|Medium|
 |69|235|Binary Search Tree|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [Java]()|Medium|
-|70|1523| Number Theory|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | [Java]()|Easy|
-|71|450| Binary Search Tree|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [Java]()|Medium|
-|72|1822| Number Theory|[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) | [Java]()|Easy|
-|73|98| Binary Search Tree|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java]()|Medium|
-|74|189| Arrays|[rotate-array](https://leetcode.com/problems/rotate-array/description/) | [Java]()|Medium|
+|70|1523|Number Theory|[count-odd-numbers-in-an-interval-range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/) | [Java]()|Easy|
+|71|450|Binary Search Tree|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst/description/) | [Java]()|Medium|
+|72|1822|Number Theory|[sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/) | [Java]()|Easy|
+|73|98|Binary Search Tree|[validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [Java]()|Medium|
+|74|189|Arrays|[rotate-array](https://leetcode.com/problems/rotate-array/description/) | [Java]()|Medium|
 |75|230|Binary Search Tree|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [Java]()|Medium|
-|76|34| Number Theory|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Java]()|Medium|
+|76|34|Number Theory|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Java]()|Medium|
 |77|109|Binary Search Tree|[convert-sorted-list-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [Java]()|Medium|
-|78|119| Arrays|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Java]()|Easy|
-|79|997| Graphs|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Java]()|Easy|
-|80|1| Arrays|[two-sum](https://leetcode.com/problems/two-sum/description/) | [Java]()|Medium| 
-|81|1971| Graphs|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Java]()|Easy|
-|82|268| Arrays|[missing-number](https://leetcode.com/problems/missing-number/description/) | [Java]()|Easy| 
+|78|119|Arrays|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii/description/) | [Java]()|Easy|
+|79|997|Graphs|[find-the-town-judge](https://leetcode.com/problems/find-the-town-judge/description/) | [Java]()|Easy|
+|80|1|Arrays|[two-sum](https://leetcode.com/problems/two-sum/description/) | [Java]()|Medium| 
+|81|1971|Graphs|[find-if-path-exists-in-graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/) | [Java]()|Easy|
+|82|268|Arrays|[missing-number](https://leetcode.com/problems/missing-number/description/) | [Java]()|Easy| 
 |83|1791|Graphs|[find-center-of-star-graph](https://leetcode.com/problems/find-center-of-star-graph/description/) | [Java]()|Easy|
-|84|403| Arrays|[frog-jump](https://leetcode.com/problems/frog-jump/description/) | [Java]()|Hard| 
+|84|403|Arrays|[frog-jump](https://leetcode.com/problems/frog-jump/description/) | [Java]()|Hard| 
 |85|1786|Graphs|[number-of-restricted-paths-from-first-to-last-node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/description/) | [Java]()|Medium|
-|86|154| Arrays|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Java]()|Medium| 
-|87|132| Strings|[132-pattern](https://leetcode.com/problems/132-pattern/description/) | [Java]()|Medium|
-|88|502| Arrays|[ipo](https://leetcode.com/problems/ipo/description/) | [Java]()|Hard| 
-|89|42| Two pointer|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java]()|Hard|
-|90|407| Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
-|91|407| Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
+|86|154|Arrays|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [Java]()|Medium| 
+|87|132|Strings|[132-pattern](https://leetcode.com/problems/132-pattern/description/) | [Java]()|Medium|
+|88|502|Arrays|[ipo](https://leetcode.com/problems/ipo/description/) | [Java]()|Hard| 
+|89|42|Two pointer|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/description/) | [Java]()|Hard|
+|90|407|Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
+|91|407|Arrays|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Java]()|Head| 
 |92|216|Backtracking|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii) | []()|Medium| 
 |93|299|Hash Table,String|[bulls-and-cows](https://leetcode.com/problems/bulls-and-cows) | []()|Medium| 
 |94|396|Math,Dynamic Programming|[rotate-function](https://leetcode.com/problems/rotate-function) | []()|Medium| 
@@ -160,13 +160,13 @@ LeetCode
 |150|1254|BFS,DFS|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands/) | []()|Medium| 
 |151|1316|String,trie,Hash|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings/) | []()|Hard| 
 |152|2261|Array,Trie,Hashing|[K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | []()|Medium| 
-|153|528| Array,Math,Binary Search |[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | []()|Medium| 
+|153|528|Array,Math,Binary Search|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | []()|Medium| 
 |154|1561|Array,Math,Greedy,Sorting|[Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | []()|Medium| 
 |155|743|DFS,heap,BFS|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | []()|Medium| 
 |156|1314|Array,Matrix|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | []()|Medium| 
-|157|93| String,Backtracking|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | []()|Medium| 
-|158|778|  Array,BFS,DFS,Heap,Binary Search|[Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) | []()|Hard| 
-|159|2396| Math,Two Pointer|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | []()|Medium| 
+|157|93|String,Backtracking|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | []()|Medium| 
+|158|778|Array,BFS,DFS,Heap,Binary Search|[Swim in rising Water](https://leetcode.com/problems/swim-in-rising-water/) | []()|Hard| 
+|159|2396|Math,Two Pointer|[Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/) | []()|Medium| 
 |160|1947|Array,DP,BackTracking,Bit Manipulation|[Max Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | []()|Medium| 
 |161|384|Array,Math|[Shuffle an array](https://leetcode.com/problems/shuffle-an-array/) | []()|Medium| 
 |162|787|DP,DFS,BFS,Heap|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | []()|Medium| 
@@ -174,9 +174,9 @@ LeetCode
 |164|1348|Hash,String,Sorting,Binary Search|[Tweet Count per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | []()|Medium|
 |165|2428|Array,Matrix|[Maximum sum of hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | []()|Medium| 
 |166|1856|Array,Stack|[ Maximum Subarray Min Product](https://leetcode.com/problems/maximum-subarray-min-product/) | []()|Medium| 
-|167|649| String,Queue,Greedy |[ Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | []()|Medium| 
-|168|2126|Array,Greedy,Sorting |[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | []()|Medium| 
-|169|2456|Array,Hash,String,Sorting,Heap |[Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | []()|Medium| 
+|167|649|String,Queue,Greedy|[ Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | []()|Medium| 
+|168|2126|Array,Greedy,Sorting|[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | []()|Medium| 
+|169|2456|Array,Hash,String,Sorting,Heap|[Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | []()|Medium| 
 |170|792|Array,Hash,String.DP,Trie,Sorting|[ Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | []()|Medium| 
 |171|2400|Math,DP|[Number of Ways to Reach a Position After Exactly k Steps](https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/) | []()|Medium| 
 |172|718|Array,DP,sliding window,Hash|[ Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | []()|Medium| 
@@ -187,7 +187,7 @@ LeetCode
 |177|257|String,Tree,DFS,Bfs,Back Tracking|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | []()|Easy| 
 |178|2048|Hash,Back Tracking,Math|[next-greater-numerically-balanced-number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | []()|Medium| 
 |179|560|Array,Hash|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/) | []()|Medium| 
-|180|1745|String,DP |[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv) | []()|Hard| 
+|180|1745|String,DP|[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv) | []()|Hard| 
 |181|838|Two Pointer,Sring,DP|[push-dominoes](https://leetcode.com/problems/push-dominoes) | []()|Medium| 
 |182|115|String,DP|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | []()|Hard| 
 |183|1696|Array,DP,Queue,Hash|[jump-game-vi]( https://leetcode.com/problems/jump-game-vi/) | []()|Medium| 
