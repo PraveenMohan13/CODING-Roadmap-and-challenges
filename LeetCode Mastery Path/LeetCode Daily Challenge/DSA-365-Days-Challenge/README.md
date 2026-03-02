@@ -159,8 +159,7 @@ LeetCode
 |149|904|Array|[fruit-into-baskets](https://leetcode.com/problems/fruit-into-baskets/) | []()|Medium| 
 |150|1254|BFS,DFS|[number-of-closed-islands](https://leetcode.com/problems/number-of-closed-islands/) | []()|Medium| 
 |151|1316|String,trie,Hash|[distinct-echo-substrings](https://leetcode.com/problems/distinct-echo-substrings/) | []()|Hard| 
-|152|2261|Array,Trie,Hashing|[K Divisible Elements Subarrays]
-(https://leetcode.com/problems/k-divisible-elements-subarrays/) | []()|Medium| 
+|152|2261|Array,Trie,Hashing|[K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | []()|Medium| 
 |153|528| Array,Math,Binary Search |[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | []()|Medium| 
 |154|1561|Array,Math,Greedy,Sorting|[Maximum Numbers of Coins you can get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | []()|Medium| 
 |155|743|DFS,heap,BFS|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | []()|Medium| 
