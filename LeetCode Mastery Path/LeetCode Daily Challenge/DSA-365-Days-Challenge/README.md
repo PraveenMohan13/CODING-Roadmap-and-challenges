@@ -188,7 +188,7 @@ LeetCode
 |177|257|String,Tree,DFS,Bfs,Back Tracking|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | []()|Easy| 
 |178|2048|Hash,Back Tracking,Math|[next-greater-numerically-balanced-number](https://leetcode.com/problems/next-greater-numerically-balanced-number) | []()|Medium| 
 |179|560|Array,Hash|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k/) | []()|Medium| 
-|180||String,DP |[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv) | []()|Hard| 
+|180|1745|String,DP |[palindrome-partitioning-iv](https://leetcode.com/problems/palindrome-partitioning-iv) | []()|Hard| 
 |181|838|Two Pointer,Sring,DP|[push-dominoes](https://leetcode.com/problems/push-dominoes) | []()|Medium| 
 |182|115|String,DP|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences/) | []()|Hard| 
 |183|1696|Array,DP,Queue,Hash|[jump-game-vi]( https://leetcode.com/problems/jump-game-vi/) | []()|Medium| 
