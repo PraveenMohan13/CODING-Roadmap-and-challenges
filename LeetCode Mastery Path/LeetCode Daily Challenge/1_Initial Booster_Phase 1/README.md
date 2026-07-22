@@ -45,7 +45,7 @@ LeetCode
 |37|1518|Math|[Water Bottles](https://leetcode.com/problems/water-bottles) | [Java]()|Easy|
 |38|1344|Math|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | [Java]()|Easy|
 |39|1295|Array,Math|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [Java]()|Easy|
-|40|728|Math|[728. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java]()|Easy|
+|40|728|Math|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | [Java]()|Easy|
 |41|125|Two Pointers,String|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | [Java]()|Easy|
 |42|1929|Array|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [Java]()|Easy|
 |43|343|Math,Dynamic Programming|[Integer Break](https://leetcode.com/problems/integer-break) | [Java]()|Easy|
@@ -57,6 +57,66 @@ LeetCode
 |49|29|Math,Bit Manipulation|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Java]()|Easy|
 |50|326|Math,Recursion|[Power of Three](https://leetcode.com/problems/power-of-three) | [Java]()|Easy|
 |51|342|Math,Bit Manipulation,Recursion|[Power of Four](https://leetcode.com/problems/power-of-four) | [Java]()|Easy|
-|52|171||[]() | [Java]()|Easy|
-|53|171||[]() | [Java]()|Easy|
-|54|171||[]() | [Java]()|Easy|
+|52|1480||[running-sum-of-1d-array](https://leetcode.com/problems/running-sum-of-1d-array/description/) | [Java]()|Easy|
+|53|1920||[build-array-from-permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Java]()|Easy|
+|54|485||[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java]()|Easy|
+|55|977||[squares-of-a-sorted-array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java]()|Easy|
+|56|26||[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java]()|Easy|
+|57|27||[remove-element](https://leetcode.com/problems/remove-element/) | [Java]()|Easy|
+|58|724||[find-pivot-index](https://leetcode.com/problems/find-pivot-index/) | [Java]()|Easy|
+|59|303||[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Java]()|Easy|
+|60|1732||[find-the-highest-altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [Java]()|Easy|
+|61|167||[two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Java]()|Easy|
+|62|283||[move-zeroes](https://leetcode.com/problems/move-zeroes/) | [Java]()|Easy|
+|63|643||[maximum-average-subarray-i](https://leetcode.com/problems/maximum-average-subarray-i/) | [Java]()|Easy|
+|64|1456||[maximum-number-of-vowels-in-a-substring-of-given-length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Java]()|Easy|
+|65|1343||[number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Java]()|Easy|
+|66|209||[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java]()|Easy|
+|67|121||[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java]()|Easy|
+|68|53||[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) | [Java]()|Easy|
+|69|88||[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) | [Java]()|Easy|
+|70|169||[majority-element](https://leetcode.com/problems/majority-element/) | [Java]()|Easy|
+|71|217||[contains-duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java]()|Easy|
+|72|1108||[defanging-an-ip-address](https://leetcode.com/problems/defanging-an-ip-address/) | [Java]()|Easy|  
+|73|557||[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Java]()|Easy|
+|74|242||[valid-anagram](https://leetcode.com/problems/valid-anagram/) | [Java]()|Easy|
+|75|387||[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java]()|Easy|
+|76|383||[ransom-note](https://leetcode.com/problems/ransom-note/) | [Java]()|Easy|
+|77|14||[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java]()|Easy|
+|78|28||[find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java]()|Easy|
+|79|796||[rotate-string](https://leetcode.com/problems/rotate-string/) | [Java]()|Easy|
+|80|49||[group-anagrams](https://leetcode.com/problems/group-anagrams/) | [Java]()|Easy|
+|81|451||[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Java]()|Easy|
+|82|205||[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings/) | [Java]()|Easy|
+|83|1||[two-sum](https://leetcode.com/problems/two-sum/) | [Java]()|Easy|
+|84|219||[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii/) | [Java]()|Easy|
+|85|349||[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java]()|Easy|
+|86|500||[keyboard-row](https://leetcode.com/problems/keyboard-row/) | [Java]()|Easy|
+|87|704||[binary-search](https://leetcode.com/problems/binary-search/) | [Java]()|Easy|
+|88|275||[h-index-ii](https://leetcode.com/problems/h-index-ii/) | [Java]()|Easy|
+|89|34||[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Java]()|Easy|
+|90|162||[find-peak-element](https://leetcode.com/problems/find-peak-element/) | [Java]()|Easy|
+|91|852||[peak-index-in-a-mountain-array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [Java]()|Easy|
+|92|153||[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java]()|Easy|
+|93|912||[sort-an-array](https://leetcode.com/problems/sort-an-array/) | [Java]()|Easy|
+|94|75||[sort-colors](https://leetcode.com/problems/sort-colors/) | [Java]()|Easy|
+|95|1051||[height-checker](https://leetcode.com/problems/height-checker/) | [Java]()|Easy|
+|96|455||[assign-cookies](https://leetcode.com/problems/assign-cookies/) | [Java]()|Easy|
+|97|605||[can-place-flowers](https://leetcode.com/problems/can-place-flowers/) | [Java]()|Easy|
+|98|1005||[maximize-sum-of-array-after-k-negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Java]()|Easy|
+|99|860||[lemonade-change](http://leetcode.com/problems/lemonade-change/) | [Java]()|Easy|
+|100|189||[rotate-array](https://leetcode.com/problems/rotate-array/) | [Java]()|Easy|
+|101|414||[third-maximum-number](https://leetcode.com/problems/third-maximum-number/) | [Java]()|Easy|
+|102|628||[maximum-product-of-three-numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Java]()|Easy|
+|103|189||[]() | [Java]()|Easy|
+|104|189||[]() | [Java]()|Easy|
+|105|189||[]() | [Java]()|Easy|
+|106|189||[]() | [Java]()|Easy|
+|107|189||[]() | [Java]()|Easy|
+|108|189||[]() | [Java]()|Easy|
+|109|189||[]() | [Java]()|Easy|
+|110|189||[]() | [Java]()|Easy|
+|111|189||[]() | [Java]()|Easy|
+|112|189||[]() | [Java]()|Easy|
+|100|189||[]() | [Java]()|Easy|
+
