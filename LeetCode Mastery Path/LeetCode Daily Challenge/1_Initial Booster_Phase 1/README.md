@@ -6,7 +6,7 @@ LeetCode
 
 | Days |Number| Topic  | Title | Solution | Difficulty | 
 |--- |----- | --- | ----- | -------- | ---------- | 
-|1|2235|Math|[add-two-integers](https://leetcode.com/problems/add-two-integers) | [Java]()|Easy|
+|1|2235|Math|[add-two-integers](https://leetcode.com/problems/add-two-integers) | [Java](https://github.com/code-with-ziad/Leetcode-Solution/tree/main/LSData/2235.Add%20Two%20Integers)|Easy|
 |2|2469|Math|[convert-the-temperature](https://leetcode.com/problems/convert-the-temperature) | [Java](https://github.com/code-with-ziad/Leetcode-Solution/tree/main/LSData/2469.Convert%20the%20Temperature)|Easy|
 |3|2413|Math|[smallest-even-multiple](https://leetcode.com/problems/smallest-even-multiple) | [Java](https://github.com/code-with-ziad/Leetcode-Solution/tree/main/LSData/2413.Smallest%20Even%20Multiple)|Easy|
 |4|2769|Math|[find-the-maximum-achievable-number](https://leetcode.com/problems/find-the-maximum-achievable-number) | [Java](https://github.com/code-with-ziad/Leetcode-Solution/tree/main/LSData/2769.Find%20the%20Maximum%20Achievable%20Number)|Easy|
